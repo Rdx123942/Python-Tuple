@@ -1,0 +1,8 @@
+fruits_name = ("Apple", "Orange", "Grapes")
+print(type(fruits_name))
+
+even_number = (2,4,6,8)
+print(even_number)
+
+mix_tuple = (1, "Hello", 2.8)
+print(mix_tuple)
